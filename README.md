@@ -1,7 +1,7 @@
 # Hi, I'm Liz. 👋
 
 ## Skills, Computer Languages and Technologies
-### Web Development with:
+### 💻 Web & Application Development with:
 - JavaScript
 - TypeScript
 - HTML & CSS
@@ -11,16 +11,13 @@
 - GraphQL
 - Webpack
 - APIs
----
-### Application Development with:
-- JavaScript
 - Express
 - C#
 - ASP.NET Core
 - Java
 - SpringBoot
 
-## Video Game Design
+### 🎮 Video Game Design
 Currently, I'm working on an indie game with my friends about a a brave young girl named 
 Puff who is tasked with uniting 10 magical beings chosen to save an ancient forest and the life it hosts from an evil and greedy king.
 It's a 2D top-down, open world, action-adventure fantasy RPG with stealth elements we're building with Unity Game Engine and C#.
