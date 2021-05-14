@@ -1,7 +1,7 @@
 # Hi, I'm Liz. 👋
 
 ## Skills, Computer Languages and Technologies
-### 💻 Web & Application Development with:
+### 💻 Web Application Development with:
 - JavaScript
 - TypeScript
 - HTML & CSS
