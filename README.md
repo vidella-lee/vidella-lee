@@ -27,7 +27,7 @@ It's a 2D top-down, open world, action-adventure fantasy RPG with stealth elemen
 ## More About Me
 
 ### 🌱 I’m currently learning:
-- Database Management with PostgreSQL
+- How to make Tetris with React Hooks!
 
 ---
 
