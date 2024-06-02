@@ -28,6 +28,7 @@ It's a 2D top-down, open world, action-adventure fantasy RPG with stealth elemen
 
 ### 🌱 I’m currently learning:
 - Linux Systems Administration!
+- Building Web Apps with Next.js!
 
 ---
 
